@@ -4,7 +4,6 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 ## Training and Inference Input/Output Examples
 
 | **Training**                                                | **Inference**                                                   |
-| ------------------------------------------------------------ | --------------------------------------------------------------- |
 (https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/4a147521-6dc1-4c85-9ad0-8d26ab1cb457)
 
 
