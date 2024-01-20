@@ -163,7 +163,6 @@ Happy coding and sign language recognition! 🤟🏽🔍
 | Training | Inference |
 | --- | --- |
 | ![Training Example](![image](![WhatsApp Image 2024-01-20 at 19 27 29_ddb2fd20](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/99f19b22-99b6-4b97-98ed-eed0bee10dd5)
-)
-) | ![Inference Input](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/66573166-da0a-4f24-ad24-989c3b9ae598)
-) ![Inference Output](path/to/inference_output.jpg) |
+| ![Inference Input](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/66573166-da0a-4f24-ad24-989c3b9ae598)
+![Inference Output](path/to/inference_output.jpg) |
 
