@@ -1,6 +1,5 @@
-Certainly! GitHub READMEs use a simplified markdown format. Below is the README content in a format suitable for GitHub:
+Certainly! Below is a more detailed README with a tabular format including the directory structure:
 
-```markdown
 # HandSign TensorFlow Object Detection
 
 Welcome to the HandSign TensorFlow Object Detection project! This project is designed to recognize hand signs using the power of TensorFlow's Object Detection API. Whether you're building a sign language translation application, exploring computer vision applications, or just curious about hand sign recognition, this project is a great starting point.
@@ -37,37 +36,40 @@ Before you begin, make sure you have the following installed:
 
 ### Installation
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/handsign-tf-object-detection.git
-   cd handsign-tf-object-detection
-   ```
+1. Clone this repository:
 
-2. **Navigate to the project directory:**
-   ```bash
-   cd handsign-tf-object-detection
-   ```
+    ```bash
+    git clone https://github.com/yourusername/handsign-tf-object-detection.git
+    cd handsign-tf-object-detection
+    ```
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install dependencies:
 
-4. **Set up TensorFlow Object Detection API:**
-   Follow the [Official Installation Guide](https://github.com/tensorflow/models/blob/main/research/object_detection/g3doc/tf2.md)
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-5. **Optional: Install GPU support for faster training and inference:**
-   Follow the instructions for [Installing TensorFlow GPU](https://www.tensorflow.org/install/gpu)
+3. Set up the TensorFlow Object Detection API by following the [official installation guide](https://github.com/tensorflow/models/blob/main/research/object_detection/g3doc/tf2.md).
 
 ## Usage
 
-### Training and Inference Input/Output Examples
+### Training
 
-| **Training**                                                | **Inference**                                                   |
-| ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset](#dataset) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
-| **Description:** Configure training parameters.              | **Example:** ![Inference Input](path/to/inference_input.jpg)     |
-| **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
+1. Prepare your hand sign dataset following the structure mentioned in the [Dataset](#dataset) section.
+2. Configure the training parameters in the `config` file.
+3. Run the training script:
+
+    ```bash
+    python train.py
+    ```
+
+### Inference
+
+1. Use the trained model for inference:
+
+    ```bash
+    python inference.py --image path/to/image.jpg
+    ```
 
 ## Model Architecture
 
@@ -85,12 +87,41 @@ Our model achieves impressive accuracy on standard hand sign recognition benchma
 
 We welcome contributions! Feel free to open issues, submit pull requests, or provide feedback to help us improve this project.
 
+## Directory Structure
+
+```
+handsign-tf-object-detection/
+│
+├── data/
+│   ├── annotations/
+│   │   ├── train/
+│   │   └── test/
+│   ├── images/
+│   │   ├── train/
+│   │   └── test/
+│   └── label_map.pbtxt
+│
+├── models/
+│   └── pre-trained-model/
+│
+├── results/
+│   ├── evaluation/
+│   └── visualizations/
+│
+├── scripts/
+│   ├── train.py
+│   └── inference.py
+│
+├── config/
+│   └── config_file.config
+│
+├── README.md
+├── LICENSE
+└── requirements.txt
+```
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 Happy coding and sign language recognition! 🤟🏽🔍
-```
-
-Please replace placeholder paths and content with your actual paths and information. This should work well for a GitHub README format.
-
