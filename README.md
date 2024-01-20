@@ -119,6 +119,24 @@ handsign-tf-object-detection/
 ├── LICENSE
 └── requirements.txt
 ```
+Certainly! Below is a section for using the webcam for real-time hand sign detection, presented in a tabular format with sample code:
+
+## Real-Time Hand Sign Detection with Webcam
+
+| Step | Description | Code |
+| --- | --- | --- |
+| 1. | Import necessary libraries | ```python import cv2 ``` |
+| 2. | Load the trained model | ```python model = load_trained_model() ``` |
+| 3. | Open webcam | ```python cap = cv2.VideoCapture(0) ``` |
+| 4. | Set up video stream loop | ```python while True: ``` |
+| 5. | Read a frame from the webcam | ```python ret, frame = cap.read() ``` |
+| 6. | Perform hand sign detection on the frame | ```python detections = detect_hand_signs(model, frame) ``` |
+| 7. | Draw bounding boxes on the frame | ```python frame_with_boxes = draw_boxes(frame, detections) ``` |
+| 8. | Display the frame | ```python cv2.imshow("Hand Sign Detection", frame_with_boxes) ``` |
+| 9. | Break the loop if 'q' is pressed | ```python if cv2.waitKey(1) & 0xFF == ord('q'): break ``` |
+| 10. | Release the webcam and close the window | ```python cap.release() cv2.destroyAllWindows() ``` |
+
+This table outlines the steps and provides sample code for opening the webcam and performing real-time hand sign detection using the trained model. You'll need to implement the `load_trained_model`, `detect_hand_signs`, and `draw_boxes` functions based on your specific implementation details.
 
 ## License
 
