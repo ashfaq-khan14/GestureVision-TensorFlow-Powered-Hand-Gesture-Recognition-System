@@ -7,9 +7,10 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 
 | **Training**                                                | **Inference**                                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset] (![WhatsApp Image 2024-01-20 at 19 13 10_87d47396](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/3056e8d5-14e9-48bf-a3e5-01a1520f17fe)
+| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset] (!(![WhatsApp Image 2024-01-20 at 19 15 53_8cc6683d](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/58560bf5-72b4-4624-865c-a3f8549f1424)
+)
 ) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
-| **Description:** Configure training parameters.              | **Example:** ![Inference Input](![WhatsApp Image 2024-01-20 at 19 12 08_0d12d2dc](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/58096f8a-1ec4-4e1d-9c78-bb51e542a805)
+| **Description:** Configure training parameters.              | **Example:** ![Inference Input](!(https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/58096f8a-1ec4-4e1d-9c78-bb51e542a805)
 )     |
 | **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
 
