@@ -1,5 +1,3 @@
-Certainly! Below is a more detailed README with a tabular format including the directory structure:
-
 # HandSign TensorFlow Object Detection
 Certainly! If you'd like to exclude the configuration file from the table, you can focus on the main aspects of training and inference. Here's the revised version:
 
@@ -7,13 +5,8 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 
 | **Training**                                                | **Inference**                                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset] (!(![WhatsApp Image 2024-01-20 at 19 15 53_8cc6683d](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/58560bf5-72b4-4624-865c-a3f8549f1424)
-)
-) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
-| **Description:** Configure training parameters.              | **Example:** ![Inference Input](![WhatsApp Image 2024-01-20 at 19 12 08_fcd0f4e8](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/e82b674d-575c-44ec-a08f-ed046c0fcbf8)
-)
-)     |
-| **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
+(https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/4a147521-6dc1-4c85-9ad0-8d26ab1cb457)
+
 
 This table provides a simplified overview focusing on the key aspects of training and inference without explicitly mentioning the configuration file. Adjust the paths and content based on your specific use case.
 
