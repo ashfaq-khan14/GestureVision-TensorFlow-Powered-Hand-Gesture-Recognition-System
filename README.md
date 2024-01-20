@@ -2,7 +2,7 @@
 Certainly! If you'd like to exclude the configuration file from the table, you can focus on the main aspects of training and inference. Here's the revised version:
 
 ## Training and Inference Input/Output Examples
-
+| Dataset | Inference |
 ![WhatsApp Image 2024-01-20 at 19 59 01_38a880e8](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/a7e87870-171f-49a4-835b-56e45d17fccf)
 
 This table provides a simplified overview focusing on the key aspects of training and inference without explicitly mentioning the configuration file. Adjust the paths and content based on your specific use case.
@@ -147,13 +147,4 @@ This table outlines the steps and provides sample code for opening the webcam an
 
 This project is licensed under the [MIT License](LICENSE).
 
-Happy coding and sign language recognition! 🤟🏽🔍## Training and Inference Input/Output Examples
-
-| Dataset | Inference |
-|---------|-----------|
-| (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/5db3c222-e8c1-4cc5-a9a5-41e34e55d6a5)
-)  | (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/e66b5f1f-a82a-4bed-8819-40ef1f74fcf4)
-) |
-| ![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/3a05114b-d17c-45ed-b37d-fac0b60a085f)
-  | ![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/0cf1af5c-549c-49ec-8bef-1447fe360be0)
- |
+Happy coding and sign language recognition! 🤟🏽🔍
