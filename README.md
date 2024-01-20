@@ -7,8 +7,10 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 
 | **Training**                                                | **Inference**                                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **Description:** Prepare your hand sign dataset following the structure mentioned in the "C:\Users\mohd ashfaq\Downloads\Tensorflow Object Detection for Hand Sign Recognition\images\train\IMG-20240118-WA0008.jpg" (#dataset) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
-| **Description:** Configure training parameters.              | **Example:** ![Inference Input](path/to/inference_input.jpg)     |
+| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset] (![WhatsApp Image 2024-01-20 at 19 13 10_87d47396](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/3056e8d5-14e9-48bf-a3e5-01a1520f17fe)
+) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
+| **Description:** Configure training parameters.              | **Example:** ![Inference Input](![WhatsApp Image 2024-01-20 at 19 12 08_0d12d2dc](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/58096f8a-1ec4-4e1d-9c78-bb51e542a805)
+)     |
 | **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
 
 This table provides a simplified overview focusing on the key aspects of training and inference without explicitly mentioning the configuration file. Adjust the paths and content based on your specific use case.
