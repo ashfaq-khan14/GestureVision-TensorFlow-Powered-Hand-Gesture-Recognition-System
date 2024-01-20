@@ -159,8 +159,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy coding and sign language recognition! 🤟🏽🔍## Training and Inference Input/Output Examples
 
-| Training | Inference |
-| --- | --- |
-| ![Training Example](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/78e8bb2b-5af6-49ba-82ab-ac81ab276cfe)
-) | ![Inference Input](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/166530a8-905c-46c7-bfa3-16c16e0a6e75)
+| Dataset | Inference |
+|---------|-----------|
+| (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/5db3c222-e8c1-4cc5-a9a5-41e34e55d6a5)
+)  | (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/e66b5f1f-a82a-4bed-8819-40ef1f74fcf4)
 ) |
+| Data 2  | Inference 2 |
