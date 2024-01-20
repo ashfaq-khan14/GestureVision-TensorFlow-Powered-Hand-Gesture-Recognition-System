@@ -164,4 +164,6 @@ Happy coding and sign language recognition! 🤟🏽🔍## Training and Inferenc
 | (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/5db3c222-e8c1-4cc5-a9a5-41e34e55d6a5)
 )  | (![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/e66b5f1f-a82a-4bed-8819-40ef1f74fcf4)
 ) |
-| Data 2  | Inference 2 |
+| ![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/3a05114b-d17c-45ed-b37d-fac0b60a085f)
+  | ![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/0cf1af5c-549c-49ec-8bef-1447fe360be0)
+ |
