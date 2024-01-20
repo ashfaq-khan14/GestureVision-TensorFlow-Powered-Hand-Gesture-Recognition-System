@@ -1,6 +1,17 @@
 Certainly! Below is a more detailed README with a tabular format including the directory structure:
 
 # HandSign TensorFlow Object Detection
+Certainly! If you'd like to exclude the configuration file from the table, you can focus on the main aspects of training and inference. Here's the revised version:
+
+## Training and Inference Input/Output Examples
+
+| **Training**                                                | **Inference**                                                   |
+| ------------------------------------------------------------ | --------------------------------------------------------------- |
+| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset](#dataset) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
+| **Description:** Configure training parameters.              | **Example:** ![Inference Input](path/to/inference_input.jpg)     |
+| **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
+
+This table provides a simplified overview focusing on the key aspects of training and inference without explicitly mentioning the configuration file. Adjust the paths and content based on your specific use case.
 
 Welcome to the HandSign TensorFlow Object Detection project! This project is designed to recognize hand signs using the power of TensorFlow's Object Detection API. Whether you're building a sign language translation application, exploring computer vision applications, or just curious about hand sign recognition, this project is a great starting point.
 
