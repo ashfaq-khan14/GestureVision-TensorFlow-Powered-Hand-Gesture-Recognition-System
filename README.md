@@ -3,9 +3,7 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 
 ## Training and Inference Input/Output Examples
 
-| **Training**                                                | **Inference**                                                   |
-(https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/4a147521-6dc1-4c85-9ad0-8d26ab1cb457)
-
+![WhatsApp Image 2024-01-20 at 19 59 01_38a880e8](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/a7e87870-171f-49a4-835b-56e45d17fccf)
 
 This table provides a simplified overview focusing on the key aspects of training and inference without explicitly mentioning the configuration file. Adjust the paths and content based on your specific use case.
 
