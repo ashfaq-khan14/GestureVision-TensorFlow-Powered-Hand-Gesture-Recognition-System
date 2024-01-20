@@ -158,3 +158,11 @@ This table outlines the steps and provides sample code for opening the webcam an
 This project is licensed under the [MIT License](LICENSE).
 
 Happy coding and sign language recognition! 🤟🏽🔍
+## Training and Inference Input/Output Examples
+
+| Training | Inference |
+| --- | --- |
+| ![Training Example](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/8ba074d9-eac1-4e4b-8c41-47ca67896581)
+) | ![Inference Input](![image](https://github.com/ashfaq-khan14/TensorFlow-Object-Detection-for-Hands-Sign-Recognition/assets/120010803/66573166-da0a-4f24-ad24-989c3b9ae598)
+) ![Inference Output](path/to/inference_output.jpg) |
+
