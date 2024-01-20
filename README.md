@@ -7,7 +7,7 @@ Certainly! If you'd like to exclude the configuration file from the table, you c
 
 | **Training**                                                | **Inference**                                                   |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **Description:** Prepare your hand sign dataset following the structure mentioned in the [Dataset](#dataset) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
+| **Description:** Prepare your hand sign dataset following the structure mentioned in the "C:\Users\mohd ashfaq\Downloads\Tensorflow Object Detection for Hand Sign Recognition\images\train\IMG-20240118-WA0008.jpg" (#dataset) section. | **Description:** Use the trained model for inference: `python inference.py --image path/to/image.jpg` |
 | **Description:** Configure training parameters.              | **Example:** ![Inference Input](path/to/inference_input.jpg)     |
 | **Example:** Run the training script: `python train.py`       | **Result:** ![Inference Output](path/to/inference_output.jpg)    |
 
